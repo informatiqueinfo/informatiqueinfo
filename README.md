@@ -20,7 +20,7 @@ Je code, j’expérimente, je casse (parfois 😅) et je reconstruis toujours mi
 
 ### 🚀 DevOps & Cloud  
 - Docker 🐳 • Kubernetes ☸️ • CI/CD  
-- Git • GitHub • GitLab  
+- Git • GitHub • GitLab 
 
 ### 🎨 Design & UI/UX  
 - Bootstrap 🎀 • Tailwind 🌈  
