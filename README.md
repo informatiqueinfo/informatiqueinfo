@@ -1,32 +1,30 @@
 ## Hi there, I'm Dahia Mk 👋
 
-✨ Étudiante en Master 2 Génie Logiciel à l’Université de Rouen ✨
-Je code, j’expérimente, je casse (parfois 😅) et je reconstruis toujours mieux.
-🔥 Actuellement en plein apprentissage constant autour du full-stack, de l’IA et du DevOps, je grandis un peu plus à chaque ligne de code.
+✨ Étudiante en **Master 2 Génie Logiciel** à l’Université de Rouen ✨  
+Je code, j’expérimente, je casse (parfois 😅) et je reconstruis toujours mieux.  
+🔥 Actuellement en **plein apprentissage** autour du **full-stack**, de l’**IA** et du **DevOps**, je grandis un peu plus à chaque ligne de code.  
 
-💻 Compétences techniques
+---
 
-🌐 Front-end
+## 💻 Compétences techniques  
 
-React • Angular • Next.js
+### 🌐 Front-end  
+- React ⚛️ • Angular 🅰️ • Next.js  
+- HTML • CSS • JavaScript • TypeScript  
 
-HTML • CSS • JavaScript • TypeScript
+### ⚙️ Back-end  
+- Java (Spring Boot) ☕ • Node.js 🌐 • PHP (Laravel) • Python 🐍  
 
-⚙️ Back-end
+### 🗄️ Bases de données  
+- PostgreSQL 🐘 • MySQL • MongoDB 🍃  
 
-Java (Spring Boot) • Node.js • PHP (Laravel) • Python
+### 🚀 DevOps & Cloud  
+- Docker 🐳 • Kubernetes ☸️ • CI/CD  
+- Git • GitHub • GitLab  
 
-🗄️ Bases de données
+### 🎨 Design & UI/UX  
+- Bootstrap 🎀 • Tailwind 🌈  
 
-PostgreSQL • MySQL • MongoDB
+---
 
-🚀 DevOps & Cloud
-
-Docker • Kubernetes • CI/CD
-
-Git • GitHub • GitLab 
-
-🎨 Design & UI/UX
-
- • Bootstrap • Tailwind
-
+✨ *Toujours en quête d’apprentissage, de nouveaux défis et de projets inspirants.* ✨
