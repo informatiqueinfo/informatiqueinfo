@@ -26,5 +26,6 @@ Je code, j’expérimente, je casse (parfois 😅) et je reconstruis toujours mi
 - Bootstrap 🎀 • Tailwind 🌈  
 
 ---
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=informatiqueinfo&show_icons=true)
 
 ✨ *Toujours en quête d’apprentissage, de nouveaux défis et de projets inspirants.* ✨
